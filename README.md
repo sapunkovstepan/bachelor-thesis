@@ -1,6 +1,6 @@
 My bachelor's thesis project at the Faculty of Economics, Lomonosov Moscow State University (MSU).
 
-## Notebook structure
+## Repository structure
 
 ```text
 .
@@ -20,6 +20,8 @@ My bachelor's thesis project at the Faculty of Economics, Lomonosov Moscow State
 │   │   └── USA.ipynb                     # Downloads U.S. Treasury yield curve data from the Federal Reserve.
 │   └── stock_data/
 │       └── stocks.ipynb                  # Downloads historical stock prices from Yahoo Finance.
+├── Econometric_Models/
+│   └── VECM.R                            # Tests cointegration and fits a VECM to bond Z-spreads and CDS spreads.
 ├── Structure_models/
 │   ├── Credit_Grades.ipynb               # Estimates credit spreads with the CreditGrades model.
 │   ├── Merton.ipynb                      # Estimates Merton credit spreads using implied and GARCH volatility.
