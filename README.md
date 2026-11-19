@@ -10,8 +10,8 @@ My bachelor's thesis project at the Faculty of Economics, Lomonosov Moscow State
 │   ├── Options/
 │   │   └── ThetaTernminal_parser.ipynb   # Downloads historical options data from Theta Terminal.
 │   ├── Z_spreads/
-│   │   ├── Untitled.ipynb                # Empty notebook.
 │   │   └── get_Z_spread.ipynb            # Calculates Boeing bond Z-spreads.
+│   │   
 │   ├── aggregation/
 │   │   └── agg_for_CG.ipynb              # Combines market and financial data for credit models.
 │   ├── reports_data/
