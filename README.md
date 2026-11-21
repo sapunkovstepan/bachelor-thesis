@@ -21,7 +21,7 @@ My bachelor's thesis project at the Faculty of Economics, Lomonosov Moscow State
 │   └── stock_data/
 │       └── stocks.ipynb                  # Downloads Boeing stock prices and the S&P 500 Total Return Index.
 ├── Econometric_Models/
-│   ├── Untitled.ipynb                    # Runs monthly regressions on changes in the Z-spread, model CDS spread, and their gap.
+│   ├── Spread_regressions.ipynb          # Runs monthly regressions on changes in the Z-spread, model CDS spread, and their gap.
 │   └── VECM.R                            # Tests cointegration and fits a VECM to market Z-spreads and model-implied CDS spreads.
 ├── Structure_models/
 │   ├── Credit_Grades.ipynb               # Prices CDS spreads with CreditGrades using alternative equity volatility inputs.
